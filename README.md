@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+this token deployed to:
+https://bscscan.com/token/0x6aa4dac3ea058fa9e8269cc210edac819cf8a7e5
+
+site is:
+https://communitygardenrewards.com/
